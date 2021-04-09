@@ -1,0 +1,48 @@
+{
+    "name": "@ganitra/youtube",
+    "description": "( गणित्र ) – Plugin to auto 🌀 update media and 🎨 artwork on YouTube.",
+    "version": "0.0.0",
+    "license": "UNLICENSED",
+    "private": false,
+    "main": "src/youtube.js",
+    "type": "module",
+    "engines": {
+        "node": ">=15.0.1"
+    },
+    "os": [
+        "linux",
+        "darwin"
+    ],
+    "cpu": [
+        "x64"
+    ],
+    "homepage": "https://github.com/ganitra/youtube#readme",
+    "bugs": "https://github.com/ganitra/youtube/issues",
+    "author": {
+        "name": "Vasanth Developer",
+        "email": "vasanth@vasanthdeveloper.com",
+        "url": "https://vasanth.tech"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ganitra/youtube.git"
+    },
+    "ganitra": {
+        "color": "#ff0000"
+    },
+    "keywords": [],
+    "dependencies": {
+        "@vasanthdeveloper/utilities": "^0.2.0",
+        "commafy-anything": "^2.1.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.13.13",
+        "@babel/eslint-parser": "^7.13.10",
+        "@babel/plugin-syntax-top-level-await": "^7.12.13",
+        "eslint": "^7.23.0",
+        "eslint-config-prettier": "^8.1.0",
+        "eslint-plugin-prettier": "^3.3.1",
+        "eslint-plugin-simple-import-sort": "^7.0.0",
+        "prettier": "^2.2.1"
+    }
+}
