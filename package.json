@@ -1,10 +1,10 @@
 {
-    "name": "@ganitra/youtube",
-    "description": "( गणित्र ) – Plugin to auto 🌀 update media and 🎨 artwork on YouTube.",
+    "name": "@ganitra/google",
+    "description": "( गणित्र ) – Plugin to auto 🌀 update media and 🎨 artwork on Google products.",
     "version": "0.0.0",
     "license": "UNLICENSED",
     "private": false,
-    "main": "src/youtube.js",
+    "main": "src/google.js",
     "type": "module",
     "engines": {
         "node": ">=15.0.1"
@@ -16,8 +16,8 @@
     "cpu": [
         "x64"
     ],
-    "homepage": "https://github.com/ganitra/youtube#readme",
-    "bugs": "https://github.com/ganitra/youtube/issues",
+    "homepage": "https://github.com/ganitra/google#readme",
+    "bugs": "https://github.com/ganitra/google/issues",
     "author": {
         "name": "Vasanth Developer",
         "email": "vasanth@vasanthdeveloper.com",
@@ -25,10 +25,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ganitra/youtube.git"
+        "url": "https://github.com/ganitra/google.git"
     },
     "ganitra": {
-        "color": "#ff0000"
+        "color": "#4285f4"
     },
     "keywords": [],
     "dependencies": {
